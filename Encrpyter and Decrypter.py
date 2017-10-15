@@ -42,4 +42,3 @@ print(Output)
 print("Decrypting the scrambled sentence gives us:")
 print(encrypt(Output,-i))
 
-#I found the all() function from looking at other python tutorials online.
